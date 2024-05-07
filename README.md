@@ -1,5 +1,6 @@
 # Contenedor-PractDB
 
+[Java](https://i.ibb.co/ZgCDPj5/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-d.png)
 
 ## ¿Cómo se abre un archivo?
 En la programación, un archivo se abre utilizando las funciones proporcionadas por el lenguaje de programación. Por ejemplo, en Java, se puede abrir un archivo utilizando la clase `File` y la clase `FileReader`.
